@@ -1,0 +1,3 @@
+C:\Users\Артем\Desktop\учеба\хорев курсач\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\Артем\Desktop\учеба\хорев курсач\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\Артем\Desktop\учеба\хорев курсач\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb

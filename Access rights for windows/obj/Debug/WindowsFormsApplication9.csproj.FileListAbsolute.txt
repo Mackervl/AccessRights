@@ -1,0 +1,42 @@
+c:\users\артем\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+c:\users\артем\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+c:\users\артем\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+c:\users\артем\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+c:\users\артем\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.AboutBox1.resources
+c:\users\артем\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+c:\users\артем\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form2.resources
+c:\users\артем\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+c:\users\артем\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+c:\users\артем\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+c:\users\артем\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+c:\users\артем\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form3.resources
+c:\users\артем\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form4.resources
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.FAQ.resources
+C:\Users\Артем\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\Артем\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\Артем\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\Артем\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.AboutBox1.resources
+C:\Users\Артем\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.FAQ.resources
+C:\Users\Артем\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+C:\Users\Артем\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form2.resources
+C:\Users\Артем\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form3.resources
+C:\Users\Артем\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form4.resources
+C:\Users\Артем\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\Артем\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+C:\Users\Артем\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\Артем\Desktop\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\Артем\Desktop\учеба\хорев курсач\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\Артем\Desktop\учеба\хорев курсач\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\Артем\Desktop\учеба\хорев курсач\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\Артем\Desktop\учеба\хорев курсач\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\Артем\Desktop\учеба\хорев курсач\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\Артем\Desktop\учеба\хорев курсач\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Desktop\учеба\хорев курсач\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.AboutBox1.resources
+C:\Users\Артем\Desktop\учеба\хорев курсач\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.FAQ.resources
+C:\Users\Артем\Desktop\учеба\хорев курсач\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+C:\Users\Артем\Desktop\учеба\хорев курсач\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form2.resources
+C:\Users\Артем\Desktop\учеба\хорев курсач\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form3.resources
+C:\Users\Артем\Desktop\учеба\хорев курсач\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form4.resources
+C:\Users\Артем\Desktop\учеба\хорев курсач\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\Артем\Desktop\учеба\хорев курсач\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
